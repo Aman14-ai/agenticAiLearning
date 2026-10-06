@@ -1,0 +1,6 @@
+ddgs
+langgraph
+langchain
+duckduckgo-search
+langchain-groq
+langchain-community
